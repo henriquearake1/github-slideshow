@@ -1,0 +1,8 @@
+{
+  "name": "github-slideshow",
+  "private": true,
+  "description": "Slides servidos pelo GitHub Pages; node_modules/reveal.js é versionado porque o site o carrega diretamente.",
+  "dependencies": {
+    "reveal.js": "^6.0.2"
+  }
+}
